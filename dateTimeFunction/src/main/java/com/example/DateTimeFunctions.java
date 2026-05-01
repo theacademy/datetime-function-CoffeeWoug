@@ -23,6 +23,7 @@ public class DateTimeFunctions {
 	 */
 	public static LocalDate getTodaysDate() {
 		//YOUR CODE STARTS HERE
+		// Successful
 		LocalDate localDate = LocalDate.now();
 		return localDate;
 		//YOUR CODE ENDS HERE
